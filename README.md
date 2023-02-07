@@ -26,7 +26,7 @@ Sales data from 1998 - 2009
 > Sentence about visualization.
 
 #### Heat Map 
-![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Heat.png)
+![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/sales_type.png)
 ## Model
 
 Describe your final model
