@@ -15,20 +15,19 @@ Sales data from 1998 - 2009
 ![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Data_Dictionary.PNG)
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
-- 
+- Data was cleaned and missing values were imputed
+- Duplicate values were resolved 
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
-
+- Two problem areas were Item_Weight and Outlet_Size.  For the first we chose to impute the median value and for the latter we replaced Nan values with "missing"
+- The result of our first investigation shows a possible relation between weight of an item and its sales potential, see graph below.
 
 #### Distrobution of Sales by Weight of Item Sold
 ![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Hist_wt.png)
 
-> Sentence about visualization.
+> You can see the vast majority of sales is for items weighing 12.5 lbs.  You can see sales per unit decrases from the extreme left to extreme right.
 
-#### Heat Map 
+#### Outlet Type
 ![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/sales_type.png)
 ## Model
 
