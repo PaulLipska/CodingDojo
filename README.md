@@ -1,15 +1,14 @@
-# Title that recommends an action
-## Subtitle describing the analysis 
+# Sales as a Function of Item Weight
+## The Heavy Cost of Large Items 
 
-**Author**: 
+**Paul Lipska**: 
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
-
+Maximizing Sales
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+Sales data from 1998 - 2009
 
 
 ## Methods
