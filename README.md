@@ -31,17 +31,18 @@ Sales data from 1998 - 2009
 
 Models used:
 * Linear Regression Model
+
 Regression Model Train Scores
-MAE: 849.1725 
-MSE: 1304275.8163 
-RMSE: 1142.049 
-R2: 0.5592852
+*MAE: 849.1725 
+*MSE: 1304275.8163 
+*RMSE: 1142.049 
+*R2: 0.5592852
 
 Regression Model Test Scores
-MAE: 803.8961 
-MSE: 1192541.2373 
-RMSE: 1092.0354 
-R2: 0.5677597
+*MAE: 803.8961 
+*MSE: 1192541.2373 
+*RMSE: 1092.0354 
+*R2: 0.5677597
 
 * Decision Tree Regressor Model
 
