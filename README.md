@@ -21,7 +21,7 @@ Sales data from 1998 - 2009
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 > Sentence about visualization.
 
