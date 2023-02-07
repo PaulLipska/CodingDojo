@@ -21,7 +21,7 @@ Sales data from 1998 - 2009
 
 
 #### Distrobution of Sales by Weight of Item Sold
-![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/sales_type.png)
+![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Hist_wt.png)
 
 > Sentence about visualization.
 
