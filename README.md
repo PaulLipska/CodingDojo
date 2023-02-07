@@ -25,13 +25,13 @@ Sales data from 1998 - 2009
 #### Distrobution of Sales by Weight of Item Sold
 ![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Hist_wt.png)
 
-> You can see the vast majority of sales is for items weighing 12.5 lbs.  You can see sales per unit decrases from the extreme left to extreme right.
+> You can see the vast majority of sales is for items weighing 12.5 lbs.  You can see sales per unit decreases from the extreme left to extreme right.
 
-#### Outlet Type
-![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/sales_type.png)
 ## Model
 
-Describe your final model
+Models used:
+* Linear Regression
+* 
 
 Report the most important metrics
 
