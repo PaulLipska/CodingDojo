@@ -9,8 +9,9 @@ Maximizing Sales
 
 ### Data:
 Sales data from 1998 - 2009
+
 Data Dictionary
-![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Data_Dictionary)
+![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/Data_Dictionary.png)
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
