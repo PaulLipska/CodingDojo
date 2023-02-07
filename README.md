@@ -20,8 +20,8 @@ Sales data from 1998 - 2009
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+#### Distrobution of Sales by Weight of Item Sold
+![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/sales_type.png)
 
 > Sentence about visualization.
 
