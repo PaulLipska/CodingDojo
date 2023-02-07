@@ -30,20 +30,21 @@ Sales data from 1998 - 2009
 ## Model
 
 Models used:
-* Linear Regression Model
+### Linear Regression Model
 
 Regression Model Train Scores
 * MAE: 849.1725 
 * MSE: 1304275.8163 
 * RMSE: 1142.049 
 * R2: 0.5592852
+
 Regression Model Test Scores
 * MAE: 803.8961 
 * MSE: 1192541.2373 
 * RMSE: 1092.0354 
 * R2: 0.5677597
 
-* Decision Tree Regressor Model
+### Decision Tree Regressor Model
 
 High Bias Decision Tree Model Train Scores
 * MAE: 1138.5329 
@@ -57,19 +58,18 @@ High Bias Decision Tree Model Test Scores
 * RMSE: 1457.8368 
 * R2: 0.2296826
 
-Refer to the metrics to describe how well the model would solve the business problem
+You can see the R^2 for the Linear Regression Model matched 60% of the training data
 
 ## Recommendations:
-
-More of your own text here
-
+Looking at supermarket types you can see a relationship between sales and store type.  Does this prove or refute the thesis of this exploration?
+A further review of sales by store type and by item weight might provide more insights and new directions.
+![alt text](https://github.com/PaulLipska/Food-Sales-Predictions/blob/main/sales_type.png)
 
 ## Limitations & Next Steps
-
-More of your own text here
+Can we retreive the missing values for a more complete exploration?  Another item to consider in relations to weight of items is the cost of freight, logistics and wharehousing. A good place to start testing changes would be on the lowest performing supermarket type.  The changes would be immediately relevant and could be measured with minimal negative affect.
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **paul.lipska@gmail.com**
